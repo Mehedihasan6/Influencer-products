@@ -1,0 +1,40 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.home-logo{
+    margin-top: 5%;
+    padding-left: 500px;
+}
+h1{
+    font-size: 40px;
+}
+.flexible-container{
+    display: flex;
+    padding-left: 500px;
+
+}
+.half-widht{
+    width: 50%;
+}
+.half-widht-img{
+    width: 100%;
+    padding-left: 5%;
+}
+.button{
+    text-decoration: none;
+    color: white;
+    background-color: orangered;
+    padding: 10px 40px;
+    font-weight: 700;
+    border-radius: 20px;
+    overflow: hidden;
+    
+}
+.button--icon{
+    padding: 5px;
+}
+.Popular-Collecation{
+    margin-top: 5%;
+    display: flex;
+    justify-content: center;
+}
