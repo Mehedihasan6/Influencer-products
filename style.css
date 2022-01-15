@@ -6,14 +6,14 @@ body{
 }
 .home-logo{
     margin-top: 5%;
-    padding-left: 500px;
+    padding-left: 300px;
 }
 h1{
-    font-size: 40px;
+    font-size: 30px;
 }
 .flexible-container{
     display: flex;
-    padding-left: 500px;
+    padding-left: 300px;
 
 }
 .half-widht{
@@ -21,7 +21,7 @@ h1{
 }
 .half-widht-img{
     width: 100%;
-    padding-left: 5%;
+    padding-left: 35%;
 }
 .button{
     text-decoration: none;
